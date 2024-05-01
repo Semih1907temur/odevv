@@ -12,7 +12,7 @@ public class TestController {
 
     @GetMapping()
     public String helloWorld(){
-        return  "hocam merhabaasda";
+        return  "hocam merhabaasdaasd";
     }
 
 }
